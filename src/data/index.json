@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/coffee-cup.png",
+      "title": "Java Application Development",
+      "description": "Need help with creating a Java application? I can help!"
+    },
+    {
+      "id": "2",
+      "src": "./img/database.png",
+      "title": "Database services",
+      "description": "Databse services to keep your servers running smooth and consistently "
+    },
+    {
+      "id": "3",
+      "src": "./img/ui.png",
+      "title": "UI & UX Design",
+      "description": "UI & UX Design to keep your applications looking clean and functional"
+    },
+    {
+      "id": "4",
+      "src": "./img/webdev.png",
+      "title": "Web application Development",
+      "description": "Web application development is a key part to any software in the modern day and I can help"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Real Estate",
+      "description": "Real Estate project for a new website, a fun little project that I've learned a lot since",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Bug Squisher",
+      "description": "A Bug Squishing game that gets faster as you get more points, a quaint project that turned out nice.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Super Hero Generator",
+      "description": "An application to generate a variety of Heroes and Villains with a variety of powers",
+      "link": "View In Github"
+    }
+  ]
+}
